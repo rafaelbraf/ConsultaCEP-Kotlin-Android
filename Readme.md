@@ -1,4 +1,4 @@
-Projeto ConsultaCEP para praticar consultas a API
+Projeto ConsultaCEP para praticar consultas a API e alterações de dados na tela
 
 - API utilizada: ViaCEP (https://viacep.com.br)
 
